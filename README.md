@@ -4,10 +4,6 @@ Blue Alert! Take control of the only democracy in the Middle East! You'll have t
 
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
-
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
-
 ## מהות המשחק
 
 תארו את הרעיון המרכזי של המשחק שלכם
